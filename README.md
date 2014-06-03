@@ -1,7 +1,7 @@
 node-starter
 ============
 
-This is a starter template that I use to bootstrap new Node applications.
+This is a starter template that I use to bootstrap new Node web applications.
 
 The stack I normally use consists of Gulp for task management, Express as my
 web stack with Swig for templating, SCSS for stylesheets, and Browserify to
