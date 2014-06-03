@@ -1,0 +1,32 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.2",
+    "cookie-parser": "~1.0.1",
+    "debug": "~0.8.1",
+    "express": "~4.1.2",
+    "jade": "~1.3.1",
+    "lodash": "^2.4.1",
+    "morgan": "~1.0.1",
+    "static-favicon": "~2.0.0-alpha",
+    "swig": "^1.3.2"
+  },
+  "devDependencies": {
+    "browserify": "^4.1.2",
+    "gulp": "^3.6.2",
+    "gulp-csso": "^0.2.8",
+    "gulp-jshint": "^1.5.5",
+    "gulp-livereload": "^1.5.0",
+    "gulp-nodemon": "^1.0.2",
+    "gulp-sass": "^0.7.1",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^0.3.0",
+    "jshint-stylish": "^0.2.0",
+    "vinyl-source-stream": "^0.1.1"
+  }
+}

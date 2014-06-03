@@ -1,0 +1,35 @@
+{
+  "globals": {
+    "window": false
+  },
+
+  "predef": [
+    "console"
+  ],
+
+  "indent": 2,
+  "node": true,
+  "devel": true,
+  "eqeqeq": true,
+  "freeze": true,
+  "immed": true,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "noempty": false,
+  "nonew": true,
+  "regexp": false,
+  "undef": true,
+  "unused": true,
+  "quotmark": "single",
+  "trailing": true,
+  "maxlen": 80,
+  "boss": true,
+  "eqnull": true,
+  "expr": true,
+  "loopfunc": true,
+  "onecase": true,
+  "shadow": true,
+  "regexdash": false,
+  "supernew": true
+}
